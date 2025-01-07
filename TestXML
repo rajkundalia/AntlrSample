@@ -1,0 +1,21 @@
+<note importance="high">
+    This is a reminder for the meeting tomorrow.
+</note>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book genre="fantasy">
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <price>10.99</price>
+        <publish_date>1937-09-21</publish_date>
+        <description>A fantasy novel about the adventures of Bilbo Baggins.</description>
+    </book>
+    <book genre="science fiction">
+        <title>Dune</title>
+        <author>Frank Herbert</author>
+        <price>9.99</price>
+        <publish_date>1965-08-01</publish_date>
+        <description>A science fiction novel set in a distant future amidst a huge interstellar empire.</description>
+    </book>
+</bookstore>
